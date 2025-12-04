@@ -1,9 +1,9 @@
+🏥 Digital Medical Scheduler (MERN + ML Recommendation)
+
 🙏 Acknowledgment
 
 This project was originally inspired by a YouTube tutorial by GreatStack.
 I used the base structure and extended it with custom features, major improvements, and machine learning–driven enhancements.
-
-🏥 Digital Medical Scheduler (MERN + ML Recommendation)
 
 A modern Doctor Appointment System built using the MERN stack, designed to simplify healthcare scheduling for Patients, Doctors, and Admins.
 The system supports real-time doctor availability, secure authentication, and intelligent decision-making using:
